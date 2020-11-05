@@ -1,0 +1,15 @@
+com/example/pu/SecondFragment.java
+ com.example.pu.SecondFragment
+ com.example.pu.SecondFragment$1
+com/example/pu/BuildConfig.java
+ com.example.pu.BuildConfig
+com/example/pu/FirstFragment.java
+ com.example.pu.FirstFragment
+ com.example.pu.FirstFragment$1
+com/example/pu/points.java
+ com.example.pu.points
+com/example/pu/MainActivity.java
+ com.example.pu.MainActivity
+ com.example.pu.MainActivity$1
+ com.example.pu.MainActivity$2
+ com.example.pu.MainActivity$3
